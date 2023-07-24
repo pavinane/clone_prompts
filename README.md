@@ -26,5 +26,14 @@
 1. where the place use client?
 * use client can be used in where we can use <B>useSatate, useEffect</B> use react hooks in the file
 
-    
+## Provider
+  * Provider can use for authentication for this project using a SessionProvider , these things are usefull for creating BackEnd 
+  and create a New Project in  [console.cloude.google](https://console.cloud.google.com/apis/dashboard) and get copy google_id and google_secreate_id and share in .env file
+
+##  Database
+
+   Create database in <B> Utils </B> folder , inside the folder create database file 
+
+   Here we can give connection for moongose 
+
     
