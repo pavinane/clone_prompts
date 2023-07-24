@@ -1,3 +1,4 @@
+import Feed from '@components/Feed'
 import React from 'react'
 
 const Home = () => {
@@ -11,6 +12,9 @@ const Home = () => {
       <p className='desc text-center'>
         Prompots is a open source , I try to create clone of this project using Nextjs and tailwind css 
       </p>
+
+      {/* Feed Component */}
+      <Feed />
     </section>
   )
 }

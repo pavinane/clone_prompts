@@ -20,5 +20,11 @@
 ## Components
 
 <B>Components</B> - It's is used for store the resuable components and make easy to  import another and usecsae
+
+## use client
+
+1. where the place use client?
+* use client can be used in where we can use <B>useSatate, useEffect</B> use react hooks in the file
+
     
     
