@@ -32,8 +32,20 @@
 
 ##  Database
 
-   Create database in <B> Utils </B> folder , inside the folder create database file 
+  Create database in <B> Utils </B> folder , inside the folder create database file 
 
-   Here we can give connection for moongose 
+  Here we can give connection for moongose
+
+  Here this file write a connection for mongoDB database through the mongoose 
+   
+  * Create a acoount in mongoDB atlas 
+  * Create project with cluster in atlas
+  * Create project and network setting
+  * Once created the database and check connect button it will show drive option
+  * copy the connection link for monogDB
+  * In .env file paste the link and inside the link add password 
+
+  Reference through the [Nextauth](https://next-auth.js.org/getting-started/example). Documentation
+
 
     
