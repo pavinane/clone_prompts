@@ -47,5 +47,15 @@
 
   Reference through the [Nextauth](https://next-auth.js.org/getting-started/example). Documentation
 
+# Domain
+  
+  * deploy successfully on vercel this project [clonePrompt](https://clone-prompts-91tdtbh0e-pavinane.vercel.app/)
+  
+  * add deployurl in console cloud google , then only it will be work
+
+  * change networkacces in database acces in anywhere
+
+  * once deploy the vercel , copy the url and add the env file 
+
 
     
