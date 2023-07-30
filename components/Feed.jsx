@@ -17,7 +17,6 @@ const Feed = () => {
 
       setPost(data)
     }
-    console.log(post,"sxnsxbhx ")
     fetchPosts();
   },[])
 
